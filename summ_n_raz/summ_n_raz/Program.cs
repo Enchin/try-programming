@@ -13,8 +13,8 @@ namespace summ_n_raz
             Console.WriteLine("От от 1 до скольки суммировать");
             string a = Console.ReadLine();
             int c = int.Parse(a);
-            int rezultat = 1;
-            int zero = 1;
+            int rezultat = 0;
+            int zero = 0;
             while (zero <= c)
             {
                 rezultat = rezultat + zero;
