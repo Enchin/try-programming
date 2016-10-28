@@ -1,0 +1,9 @@
+C:\Users\donen\Source\Repos\zmeika\A+B\A+B\bin\Debug\A+B.exe.config
+C:\Users\donen\Source\Repos\zmeika\A+B\A+B\obj\Debug\A+B.csprojResolveAssemblyReference.cache
+C:\Users\donen\Source\Repos\zmeika\A+B\A+B\bin\Debug\A+B.exe
+C:\Users\donen\Source\Repos\zmeika\A+B\A+B\bin\Debug\A+B.pdb
+C:\Users\donen\Source\Repos\zmeika\A+B\A+B\obj\Debug\A+B.exe
+C:\Users\donen\Source\Repos\zmeika\A+B\A+B\obj\Debug\A+B.pdb
+C:\Users\donen\Source\Repos\try-programming\A+B\A+B\bin\Debug\A+B.exe.config
+C:\Users\donen\Source\Repos\try-programming\A+B\A+B\obj\Debug\A+B.exe
+C:\Users\donen\Source\Repos\try-programming\A+B\A+B\obj\Debug\A+B.pdb
